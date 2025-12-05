@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Paradise",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-05T15:01:38.430488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "has_synced": true,
+      "path": "select/01_Gangsta's_Paradise_Coolio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just Another Day In Paradise",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/02_Just_Another_Day_In_Paradise_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise (Fly Up Your Nose)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/03_May_the_Bird_of_Paradise_(Fly_Up_Your_Nose)_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise (Fly Up Your Nose) (Album Version)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/04_May_the_Bird_of_Paradise_(Fly_Up_Your_Nose)_(Album_Version)_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise Fly Up Your Nose",
+      "artist": "'Little' Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/05_May_the_Bird_of_Paradise_Fly_Up_Your_Nose_'Little'_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise Fly up Your Nose",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/06_May_the_Bird_of_Paradise_Fly_up_Your_Nose_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PARADISE TO ME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/07_PARADISE_TO_ME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paradise",
+      "artist": "John Prine",
+      "has_synced": false,
+      "path": "select/08_Paradise_John_Prine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paradise Tonight",
+      "artist": "Charly McClain",
+      "has_synced": false,
+      "path": "select/09_Paradise_Tonight_Charly_McClain.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paradise Tonight (Album Version)",
+      "artist": "Charly McClain",
+      "has_synced": false,
+      "path": "select/10_Paradise_Tonight_(Album_Version)_Charly_McClain.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paradise",
+      "artist": "Alan Walker feat. K-391 & Boy In Space",
+      "has_synced": true,
+      "path": "select/11_Paradise_Alan_Walker_feat._K-391_&_Boy_In_Space.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paradise",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/12_Paradise_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Paradise (Live)",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/13_Paradise_(Live)_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trouble In Paradise",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/14_Trouble_In_Paradise_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Trouble In Paradise (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/15_Trouble_In_Paradise_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dark Paradise",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/16_Dark_Paradise_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lost in Paradise",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/17_Lost_in_Paradise_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Paradise + 倔強 - Live",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/18_Paradise_+_倔強_-_Live_五月天.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Paradise+倔强 Live",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/19_Paradise+倔强_Live_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paradise",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_Paradise_NiziU.txt"
+    }
+  ]
+}
